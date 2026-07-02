@@ -5,6 +5,5 @@ Machine learning-based college admission prediction system using academic and en
 - Model training and evaluation
 - Interactive Flask web application
 - MySQL database integration
-- Real-time prediction results
 
 ---
